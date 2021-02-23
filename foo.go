@@ -1,5 +1,5 @@
 package foo
 
 func Bar() string {
-	return "这是初始版本"
+	return "这是一个更好的版本"
 }
